@@ -6,6 +6,7 @@ SWEP.PrintName = "Class-B Amnestics"
 SWEP.Author = "Astral"
 SWEP.Instructions = "Left mouse click to administer Amnestics."
 
+-- Cool Comment
 SWEP.Slot = 0
 SWEP.SlotPos = 4
 
